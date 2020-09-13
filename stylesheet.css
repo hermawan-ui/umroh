@@ -1,0 +1,27 @@
+header {
+  background-color: #26d0c9;
+   height: 250px;
+   width: auto100%;
+   float:left;
+}
+.header-logo {
+  font-size:32px;
+  color:black;
+  Padding:75px;
+  padding-left:37px;
+  float:left;
+  font-family: serif;
+}
+.title {
+  color : green;
+  font-family: fantasy;
+  font-size: 40px;
+}
+p {
+  font-size: 20px;
+  font-weight: bold;
+  font-style: italic;
+}
+
+
+}
